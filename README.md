@@ -4,7 +4,7 @@
 ## Usage
 - clone the repository
 ```
-git clone https://github.com/willjw3/reposnsive-sidebar-react-hooks-tutorial.git myapp
+git clone https://github.com/willjw3/responsive-sidebar-react-hooks-tutorial.git myapp
 ```
 
 *Feel free to call your project something other than 'myapp'*
